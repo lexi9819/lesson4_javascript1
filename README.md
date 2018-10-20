@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(10, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Alexa Lowry)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This application will add up the total of all your expenses and help you see what is costing the most.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://lexi9819.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The basics of JavaScript and how to add the basic JavaScript to your web pages
+2. Storing and tracking information with variables
+3. How to use objects to work with data
 
 
 
